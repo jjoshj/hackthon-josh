@@ -68,8 +68,8 @@ body{
     }
     input,
 input::-webkit-input-placeholder {
-    font-size: 17px;
-    line-height: 1;
+    font-size: 15px;
+    
 }
 .search-area{
  
