@@ -99,11 +99,11 @@ input::-webkit-input-placeholder {
       gap:1%;
     }
     .search-tab{
-      height:30px;
+      height:25px;
       width:450px;
     }
     .search-key{
-       height:40px;
+       height:25px;
       width:140px;
       font-weight: bolder;
       font-size: 18px;
@@ -134,7 +134,7 @@ input::-webkit-input-placeholder {
     opacity: 1 ;
   }
   .buttenReset:hover{
-      height:40px;
+      height:25px;
       width:100px;
       font-weight: bolder;
       font-size: 18px;
